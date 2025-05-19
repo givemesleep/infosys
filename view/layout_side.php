@@ -4,10 +4,16 @@
         <!-- Logo -->
 
         <a class="navbar-brand" href="./index.php" aria-label="Front">
-            <h1 class="navbar-brand-logo" alt="Logo" data-hs-theme-appearance="default">Llano Chapter</h1>
+            <!-- <h1 class="navbar-brand-logo" alt="Logo" data-hs-theme-appearance="default">Llano Chapter</h1>
             <h1 class="navbar-brand-logo" alt="Logo" data-hs-theme-appearance="dark">Llano Chapter</h1>
             <h1 class="navbar-brand-logo-mini" alt="Logo" data-hs-theme-appearance="default">Llano Chapter</h1>
-            <h1 class="navbar-brand-logo-mini" alt="Logo" data-hs-theme-appearance="dark">Llano Chapter</h1>
+            <h1 class="navbar-brand-logo-mini" alt="Logo" data-hs-theme-appearance="dark">Llano Chapter</h1> -->
+
+            <h1 class="navbar-brand-logo" alt="Logo" data-hs-theme-appearance="default">Membership</h1>
+            <h1 class="navbar-brand-logo" alt="Logo" data-hs-theme-appearance="dark">Membership</h1>
+            <h1 class="navbar-brand-logo-mini" alt="Logo" data-hs-theme-appearance="default">Membership</h1>
+            <h1 class="navbar-brand-logo-mini" alt="Logo" data-hs-theme-appearance="dark">Membership</h1>
+            
         </a>
 
         <!-- Content -->
@@ -44,7 +50,7 @@
               </div>
 
               <div class="nav-item">
-                <a class="nav-link " href="./" data-placement="left">
+                <a class="nav-link " href="./add-member.php" data-placement="left">
                   <i class="bi bi-person-plus-fill nav-icon"></i>
                   <span class="nav-link-title">Create New Member</span>
                 </a>
