@@ -196,7 +196,7 @@
                     </div>
                     <div class="col-md-3">
                         <label for="contact">Email </label>
-                        <input type="text" class="form-control" id="contact" name="contact" placeholder="Enter your Email Address">
+                        <input type="text" class="form-control" id="contact" name="EmailAdd" placeholder="Enter your Email Address">
                     </div>
                     <div class="col-md-3">
                         <label for="chapter">Chapter <span class="required">*</span></label>
@@ -212,8 +212,9 @@
                     </div>
 
                     <div class="text-end">
-                        <button type="reset" class="btn btn-soft-secondary">Reset</button>                       
-                        <input type="submit" value="Save" class="btn btn-soft-success">
+                        <button type="reset" class="btn btn-soft-secondary">Reset</button>  
+                        <button type="submit" class="btn btn-soft-success" name="submit">Save</button>                     
+                        <!-- <input type="submit" value="Save" class="btn btn-soft-success" name="submit"> -->
                     </div>
 
                 </div>
